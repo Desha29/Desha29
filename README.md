@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./HeaderImage.png)
 
 <h1 align="center">Hi 👋, I'm Mostafa Amr</h1>
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="80"> <h3>  About Me:</h3>
