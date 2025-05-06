@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Mostafa Amr</h1>
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="80">   About Me:
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="80"> <h3>  About Me:</h3>
 <h3 align="center">Flutter Developer | Building cross-platform mobile apps. Computer Science Student at Ain Shams University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desha29&label=Profile%20views&color=0e75b6&style=flat" alt="desha29" /> </p>
@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **mstfo23mr5@gmail.com**
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="80">   Connect with me:</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="80">  </h3>
+<h3> Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-amr-a39ba1250?formqr=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-amr-a39ba1250?formqr=1" height="30" width="40" /></a>
 </p>
