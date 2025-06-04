@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mostafa Amr</h1>
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="80"> <h3>  About Me:</h3>
-<h3 align="center">Flutter Developer | Building cross-platform mobile apps. Computer Science Student at Ain Shams University.</h3>
+<h3 align="center">🚀 Flutter Developer | Building cross-platform mobile apps| 🧠 Tech Leader | 🎓 Computer Science Student at Ain Shams University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desha29&label=Profile%20views&color=0e75b6&style=flat" alt="desha29" /> </p>
 
